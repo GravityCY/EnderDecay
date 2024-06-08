@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.gravityio.enderdecay.mixins.impl",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "EndPortalMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

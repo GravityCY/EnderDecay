@@ -1,0 +1,25 @@
+{
+  "yacl.ender_decay.title": "Ender Decay",
+
+  "yacl.ender_decay.on.label": "Enabled",
+  "yacl.ender_decay.on.desc": "Enable Ender Decay.",
+
+  "yacl.ender_decay.chance.label": "Chance",
+  "yacl.ender_decay.chance.desc": "Chance of an ender portal spawning a particle.",
+
+  "yacl.ender_decay.age.label": "Age",
+  "yacl.ender_decay.age.desc": "The age of the particle.",
+
+  "yacl.ender_decay.velocity.label": "Velocity",
+  "yacl.ender_decay.velocity.desc": "The velocity of the particle.",
+
+  "yacl.ender_decay.colors.label": "Colour",
+  "yacl.ender_decay.colors.desc": "The colour of the particle.",
+
+  "yacl.ender_decay.r.label": "Red",
+  "yacl.ender_decay.r.desc": "The red component of the colour.",
+  "yacl.ender_decay.g.label": "Green",
+  "yacl.ender_decay.g.desc": "The green component of the colour.",
+  "yacl.ender_decay.b.label": "Blue",
+  "yacl.ender_decay.b.desc": "The blue component of the colour."
+}
